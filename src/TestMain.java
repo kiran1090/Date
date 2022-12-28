@@ -1,7 +1,7 @@
 public class TestMain {
    public static void main(String[] args) {
       // Test constructor and toString()
-      Date d1 = new Date(1, 2, 2014);
+      Date d1 = new Date(2,2,2022);
       System.out.println(d1);  // toString()
 
       // Test Setters and Getters
